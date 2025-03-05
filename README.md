@@ -1,4 +1,8 @@
-<h1>K-9-Packet-Sniffer</h1>
+<h1>
+  <img src="![K9 Logo](https://github.com/user-attachments/assets/75ad56fc-bb2a-4f02-8ead-a6f95a91e800)" alt="Logo" width="50" height="50">
+  K-9-Packet-Sniffer
+</h1>
+
 
  ### [Project Walkthrough](https://drive.google.com/file/d/1Cs7fr3yHBhuHSaADkqvDeAPCq8rt4sFS/view?usp=sharing)
   ### [Project Documentation](https://drive.google.com/file/d/14ypuzSIN7EM_9Ra9f3fohY6UMxS9ZB-b/view?usp=sharing)
