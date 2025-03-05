@@ -42,7 +42,7 @@ This software is a robust and user-friendly packet sniffer designed to capture, 
 
 
 
-<img src="https://github.com/user-attachments/assets/8d7f20ab-fb90-4a80-b2f1-b9f4a4043c6a" alt="K9 Packet Sniffer pdf" width="750">
+<img src="https://github.com/user-attachments/assets/8d7f20ab-fb90-4a80-b2f1-b9f4a4043c6a" alt="K9 Packet Sniffer pdf" width="900">
 
 
 
