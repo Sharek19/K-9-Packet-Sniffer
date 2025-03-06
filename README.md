@@ -1,7 +1,4 @@
-
-
-<img src="https://github.com/user-attachments/assets/4d9fff8b-4caa-4cde-81ef-ef587c24ea95" alt="K9 Logo" width="250" style="margin-left: -20px;">
-
+<img src="https://github.com/user-attachments/assets/1292ea2d-e9ca-4b47-b175-3f6c2c1d778b" alt="Untitled design" width="300"/>
 
 <h1>
 
